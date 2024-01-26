@@ -3,7 +3,8 @@ pub mod excercism;
 // use excercism::gigasecond;
 // use excercism::clock;
 // use excercism::anagram;
-use excercism::space_age;
+// use excercism::space_age;
+use excercism::sublist;
 
 
 
@@ -12,6 +13,7 @@ fn main(){
     // gigasecond::run();
     // clock::run();
     // anagram::run();
-    space_age::run();
+    // space_age::run();
+    sublist::run();
 
 }
